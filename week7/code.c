@@ -1,8 +1,7 @@
 #include "utilities.h"
 
 int main()
-{
-    // array of daily readings
+{   // array of daily readings
     reading daily_readings[100];
 
     char line[buffer_size];
